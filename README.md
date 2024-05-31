@@ -1,2 +1,2 @@
 # Tasks-
-Tasks management 
+This repository aims to manage my weekly tasks and it is a trial.
